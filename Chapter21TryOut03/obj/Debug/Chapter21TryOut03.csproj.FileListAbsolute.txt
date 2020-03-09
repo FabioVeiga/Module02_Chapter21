@@ -1,0 +1,7 @@
+C:\Fabio\Chapter21TryOut03\bin\Debug\Chapter21TryOut03.exe.config
+C:\Fabio\Chapter21TryOut03\bin\Debug\Chapter21TryOut03.exe
+C:\Fabio\Chapter21TryOut03\bin\Debug\Chapter21TryOut03.pdb
+C:\Fabio\Chapter21TryOut03\obj\Debug\Chapter21TryOut03.csprojAssemblyReference.cache
+C:\Fabio\Chapter21TryOut03\obj\Debug\Chapter21TryOut03.csproj.CoreCompileInputs.cache
+C:\Fabio\Chapter21TryOut03\obj\Debug\Chapter21TryOut03.exe
+C:\Fabio\Chapter21TryOut03\obj\Debug\Chapter21TryOut03.pdb
